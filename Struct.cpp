@@ -1,5 +1,5 @@
 //Jeremiah Ibarra
-//Word Frequency Table
+//Concordance Table
 
 #include <iostream>
 using namespace std;
